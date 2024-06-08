@@ -16,8 +16,8 @@
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&color=%23339933)
 ![Java](https://img.shields.io/badge/java-%23FF5722.svg?style=for-the-badge&logo=java&logoColor=white&color=%23FF5722)
 ![CSS](https://img.shields.io/badge/CSS-%23264de4.svg?style=for-the-badge&logo=css3&color=%23264de4)
-![SQL](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=SQL&logoColor=white&color=%23339933)
-
+![SQL](https://img.shields.io/badge/sql-%230066CC.svg?style=for-the-badge&logo=sql&logoColor=white&color=%230066CC)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=%2338B2AC)
 
 
 
