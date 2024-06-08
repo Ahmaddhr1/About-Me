@@ -14,7 +14,7 @@
 ![Mongo DB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248&color=%23685422)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&color=%23339933)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%230066CC.svg?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-black.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23FF5722.svg?style=for-the-badge&logo=java&logoColor=white&color=%23FF5722)
 ![CSS](https://img.shields.io/badge/CSS-%23264de4.svg?style=for-the-badge&logo=css3&color=%23264de4)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=%2338B2AC)
