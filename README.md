@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<p>-A 2nd year Computer Sceince student at Beirut Arab University <br>
+<p>-A 3rd year Computer Sceince student at Beirut Arab University <br>
 -Along the road of getting my degree, I am learning new skills outside of my university curriculum that will help me graduate with enough knowledge to be an efficient programmer in the fields I am most interested in.<br>
 -My goal before graduating is to acquire knowledge and skills in developing web and mobile applications using different libraries and frameworks<br>
 
@@ -16,6 +16,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&color=%23339933)
 ![Java](https://img.shields.io/badge/java-%23FF5722.svg?style=for-the-badge&logo=java&logoColor=white&color=%23FF5722)
 ![CSS](https://img.shields.io/badge/CSS-%23264de4.svg?style=for-the-badge&logo=css3&color=%23264de4)
+![SQL](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&color=%23339933)
 
 
 
