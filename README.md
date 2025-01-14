@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<p>-A 3rd year Computer Sceince student at Beirut Arab University <br>
+<p>-A Senior year Computer Sceince student at Beirut Arab University <br>
 -Along the road of getting my degree, I am learning new skills outside of my university curriculum that will help me graduate with enough knowledge to be an efficient programmer in the fields I am most interested in.<br>
 -My goal before graduating is to acquire knowledge and skills in developing web and mobile applications using different libraries and frameworks<br>
 
